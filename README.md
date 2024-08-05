@@ -14,12 +14,12 @@ Feel free to fork this repository and contribute by adding more problems or impr
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Math   | Medium     | :heavy_check_mark:    |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hash Table, String, Sliding Window | Medium     | :heavy_check_mark:    |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Array, Binary Search | Hard       | :heavy_check_mark:    |
-| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String, Dynamic Programming | Medium     | :heavy_check_mark:    |
-| 6   | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String              | Medium     | :heavy_check_mark:    |
+| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String, Dynamic Programming | Medium     | :x:    |
+| 6   | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String              | Medium     | :x:    |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math                | Easy       | :heavy_check_mark:    |
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | String              | Medium     | :heavy_check_mark:    |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math                | Easy       | :heavy_check_mark:    |
-| 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | String, Dynamic Programming | Hard   | :heavy_check_mark:    |
+| 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | String, Dynamic Programming | Hard   | :x:    |
 | ... | ...                                                     | ...                  | ...        | [ ]    |
 
 ## Usage
