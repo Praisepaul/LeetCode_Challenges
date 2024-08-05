@@ -20,8 +20,6 @@ Feel free to fork this repository and contribute by adding more problems or impr
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                 | String                             | Medium     | :heavy_check_mark: |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                             | Math                               | Easy       | :heavy_check_mark: |
 | 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                                         | String, Dynamic Programming        | Hard       | :x:                |
-| #   | Problem                                                                                       | Tags                                | Difficulty | Status |
-|-----|-----------------------------------------------------------------------------------------------|-------------------------------------|------------|--------|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)         | Array, Two Pointers                | Medium     | :x:    |
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                         | Math                               | Medium     | :x:    |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                         | Math                               | Easy       | :x:    |
