@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 class Solution {
     static void generate(List<String> l, int open, int closed, String temp, int n){
 

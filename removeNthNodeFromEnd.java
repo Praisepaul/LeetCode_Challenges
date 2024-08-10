@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+import java.util.*;
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode l = new ListNode(0);
